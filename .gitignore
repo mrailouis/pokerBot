@@ -1,0 +1,11 @@
+# JetBrains IDE metadata
+/.idea/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+/.venv/
+/venv/
+/env/
